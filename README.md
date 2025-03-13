@@ -26,7 +26,7 @@ The dataset used for this project contains information about various cars, inclu
 - Fuel type
 - Price
 
-You can download the dataset from [insert dataset source URL here] or use a similar dataset from your own.
+You can download the dataset from above or use a similar dataset from your own.
 
 ## Installation
 
